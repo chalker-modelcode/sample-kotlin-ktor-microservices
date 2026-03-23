@@ -85,6 +85,11 @@ replay_pid*
 *.test
 *.out
 *.coverprofile
+/server
+/cmd/server/server
+*.prof
+go.work
+go.work.sum
 
 # ----- C# / .NET -----
 [Bb]in/
